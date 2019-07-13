@@ -41,5 +41,8 @@
   "dependencies": {
     "express": "^4.17.0",
     "official_joke_api": "https://github.com/mathiscode/official_joke_api.git"
+  },
+  "resolutions": {
+    "chokidar": "3"
   }
 }
